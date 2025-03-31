@@ -38,7 +38,7 @@ The system is designed to be adaptable to different business needs, allowing for
 - Experimentation with alternative recommendation techniques (e.g., hybrid models)
 
 ## Usage
-Customers can engage with the recommendation system via the retailer’s online store. The system continuously learns from user behavior and adapts recommendations to improve their shopping experience.
+Customers can engage with the recommendation system via the retailer’s online and offline store. The system continuously learns from user behavior and adapts recommendations to improve their shopping experience.
 
 ## Future Enhancements
 To further enhance the system, future updates may include:
