@@ -1,7 +1,7 @@
 # Retail Eyewear Recommendation System
 
 ## Overview
-This project involves developing a recommendation system for one of Indonesia's leading eyewear retailers on 2020. The primary objective is to enhance the shopping experience by providing personalized eyewear recommendations based on customer preferences and historical interactions.
+This project involves developing a recommendation system for one of Indonesia's leading eyewear retailers on 2021. The primary objective is to enhance the shopping experience by providing personalized eyewear recommendations based on customer preferences and historical interactions.
 
 ## Project Description
 
